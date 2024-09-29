@@ -1,7 +1,7 @@
 # Big-Data-Exercises
 This repository contains a collection of projects and exercises focused on Big Data technologies, frameworks, and concepts. It serves as a resource for practicing and understanding various Big Data tools and techniques, including data ingestion, processing, analysis, and visualization.
 
-Each project is organized in its own branch for easier navigation and version control.
+**Each project is organized in its own branch for easier navigation and version control.**
 
 # Contents
 - Data Processing with Apache Hadoop: Hands-on projects for distributed data storage and processing using Hadoop.
